@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PrajwalCyberGod?tab=repositories](https://github.com/PrajwalCyberGod?tab=repositories)
+- 👨‍💻 All of my projects are available at [**My Repos**](https://github.com/PrajwalCyberGod?tab=repositories)
+
+- 💻 My current BEST project is [**crypto**](https://github.com/PrajwalCyberGod/crypto)
 
 - 💬 Ask me about **Cybersecurity**
 
