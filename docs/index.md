@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<h1 align="center">Hi 👋, I'm Prajwal Vijaykumar Mali</h1>
+<h3 align="center">A passionate cybersecurity learner from India</h3>
 
-You can use the [editor on GitHub](https://github.com/PrajwalCyberGod/PrajwalCyberGod/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalcybergod&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalcybergod" /> </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalcybergod" alt="prajwalcybergod" /></a> </p>
 
-### Markdown
+- 🔭 I’m currently working on **Cybersecurity Automation**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🌱 I’m currently learning **Data Science**
 
-```markdown
-Syntax highlighted code block
+- 👨‍💻 All of my projects are available at [**My Repos**](https://github.com/PrajwalCyberGod?tab=repositories)
 
-# Header 1
-## Header 2
-### Header 3
+- 💻 My current BEST project is [**crypto**](https://github.com/PrajwalCyberGod/crypto)
 
-- Bulleted
-- List
+- 💬 Ask me about **Cybersecurity**
 
-1. Numbered
-2. List
+- 📫 How to reach me **prajwalgithubpro@hotmail.com**
 
-**Bold** and _Italic_ and `Code` text
+- ⚡ Fun fact **I want to be a Hacker and that's why I am in Cybersecurity**
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-### Jekyll Themes
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact" alt="prajwalcybergod" /></p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PrajwalCyberGod/PrajwalCyberGod/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en" alt="prajwalcybergod" /></p>
