@@ -26,5 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact" alt="prajwalcybergod" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en" alt="prajwalcybergod" /></p>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="prajwal-mali-364465208"><a class="LI-simple-link" href='https://in.linkedin.com/in/prajwal-mali-364465208?trk=profile-badge'>Prajwal Mali</a></div>
+
