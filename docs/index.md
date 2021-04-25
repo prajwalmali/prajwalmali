@@ -50,13 +50,15 @@
 </p>
 
 ---
-
+<p>
+  
 ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner&theme=tokyonight)](https://github.com/PrajwalCyberGod/crypto)
 
+</p>
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalcybergod&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="prajwalcybergod" /> </p>
