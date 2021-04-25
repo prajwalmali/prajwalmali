@@ -5,8 +5,6 @@
 
 <img align="right" height='220px' alt="GIF" src="https://media3.giphy.com/media/115BJle6N2Av0A/200w.webp?cid=ecf05e476ee2eppr5h22932iixxzms1dwwnvp7qq3m71nxvh&rid=200w.webp&ct=g" />
 
-</br>
-
 - 🔭 I’m currently working on **Cybersecurity Automation**
 
 - 🌱 I’m currently learning **Data Science**
@@ -54,10 +52,7 @@
 </br>
 
 ---
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prajwalcybergod" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight" alt="prajwalcybergod" /></p>
--->
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight)
