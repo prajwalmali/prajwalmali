@@ -23,6 +23,16 @@
 
 ---
 
+![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight) </br> ![Readme Card](https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight) </br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner&theme=tokyonight)](https://github.com/PrajwalCyberGod/crypto)
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalcybergod&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="prajwalcybergod" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalcybergod&column=7&margin-w=15&theme=darkhub" alt="prajwalcybergod" /></a> </p>
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -48,20 +58,4 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
 </p>
-
-</br>
-
----
-
-![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-
-![Readme Card](https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner&theme=tokyonight)](https://github.com/PrajwalCyberGod/crypto)
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalcybergod&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="prajwalcybergod" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalcybergod&column=7&margin-w=15&theme=darkhub" alt="prajwalcybergod" /></a> </p>
 
