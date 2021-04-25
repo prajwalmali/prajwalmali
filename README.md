@@ -58,9 +58,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prajwalcybergod" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight" alt="prajwalcybergod" /></p>
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner&theme=tokyonight)](https://github.com/PrajwalCyberGod/crypto)
 
