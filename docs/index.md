@@ -23,7 +23,11 @@
 
 ---
 
-![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact) </br> ![Readme Card](https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en) </br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner)](https://github.com/PrajwalCyberGod/crypto)
+![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact) 
+
+![Readme Card](https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner)](https://github.com/PrajwalCyberGod/crypto)
 
 ---
 
