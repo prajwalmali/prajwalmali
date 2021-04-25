@@ -23,13 +23,13 @@
 
 ---
 
-![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight) </br> ![Readme Card](https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight) </br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner&theme=tokyonight)](https://github.com/PrajwalCyberGod/crypto)
+![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact) </br> ![Readme Card](https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en) </br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner)](https://github.com/PrajwalCyberGod/crypto)
 
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalcybergod&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="prajwalcybergod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalcybergod&column=7&margin-w=15&theme=darkhub" alt="prajwalcybergod" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalcybergod&column=7&margin-w=15" alt="prajwalcybergod" /></a> </p>
 
 ---
 
