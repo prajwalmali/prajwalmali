@@ -36,11 +36,13 @@
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prajwalcybergod"/></a></p>
 
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalcybergod&column=7&margin-w=15&theme=darkhub" alt="prajwalcybergod" /></a> </p>
+
 ---
 
-<h3 align="left">Languages and Tools</h3>
+<h3>Languages and Tools</h3>
 
-<p align="left"> 
+<p> 
   
 <a href="https://www.cprogramming.com/" target="_blank"> 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -70,7 +72,7 @@
 
 ---
 
-<h3 align="left">Contact</h3>
+<h3>Contact</h3>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
