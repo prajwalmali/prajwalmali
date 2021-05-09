@@ -70,7 +70,7 @@
 
 ---
 
-## Contact
+<h3 align="left">Contact</h3>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
