@@ -31,7 +31,7 @@
 -->
 
 <p><a href="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight" alt="prajwalcybergod"/></a>
-
+  
 <a href="https://github.com/PrajwalCyberGod/crypto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner&theme=tokyonight" alt="prajwalcybergod"/></a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prajwalcybergod"/></a></p>
