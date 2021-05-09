@@ -24,17 +24,18 @@
 
 ---
 
+
+![Readme Card](https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner)](https://github.com/PrajwalCyberGod/crypto)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact) 
+
 <!--
-![Readme Card](https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner&theme=tokyonight)](https://github.com/PrajwalCyberGod/crypto)
-![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight) 
--->
-
 <p><a href="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en"><img src="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en" alt="prajwalcybergod"/></a>
-  
 <a href="https://github.com/PrajwalCyberGod/crypto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner" alt="prajwalcybergod"/></a>
-
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact" alt="prajwalcybergod"/></a></p>
+-->
 
 ---
 
