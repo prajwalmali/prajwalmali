@@ -31,6 +31,8 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact) 
 
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalcybergod&column=7&margin-w=15" alt="prajwalcybergod" /></a> </p>
+
 <!--
 <p><a href="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en"><img src="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en" alt="prajwalcybergod"/></a>
 <a href="https://github.com/PrajwalCyberGod/crypto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner" alt="prajwalcybergod"/></a>
@@ -39,9 +41,9 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>Languages and Tools</h3>
 
-<p align="left"> 
+<p> 
   
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
@@ -69,7 +71,7 @@
 
 ---
 
-<h3 align="left">Contact</h3>
+<h3>Contact</h3>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
