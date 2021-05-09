@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" height='220px' alt="GIF" src="https://media3.giphy.com/media/115BJle6N2Av0A/200w.webp?cid=ecf05e476ee2eppr5h22932iixxzms1dwwnvp7qq3m71nxvh&rid=200w.webp&ct=g" />
+<img align="right" height='200px' alt="GIF" src="https://media3.giphy.com/media/115BJle6N2Av0A/200w.webp?cid=ecf05e476ee2eppr5h22932iixxzms1dwwnvp7qq3m71nxvh&rid=200w.webp&ct=g" />
 
 - 🔭 I’m currently working on **Cybersecurity Automation**
 
