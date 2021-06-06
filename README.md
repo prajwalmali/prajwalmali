@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prajwal Vijaykumar Mali</h1>
 <h3 align="center">A passionate cybersecurity learner from India</h3>
 
----
+<h1 align="center"> About Me </h1>
 
 <img align="right" height='200px' alt="GIF" src="https://media3.giphy.com/media/115BJle6N2Av0A/200w.webp?cid=ecf05e476ee2eppr5h22932iixxzms1dwwnvp7qq3m71nxvh&rid=200w.webp&ct=g" />
 
@@ -25,28 +25,31 @@
 
 ---
 
-<!--
-![Readme Card](https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner&theme=tokyonight)](https://github.com/PrajwalCyberGod/crypto)
-![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight) 
--->
+<h1 align="center"> 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 </h1>
 
-<p><a href="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight" alt="prajwalcybergod"/></a>
+<p align="center"><a href="https://metrics.lecoq.io/PrajwalCyberGod?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FCalcutta"><img src="https://metrics.lecoq.io/PrajwalCyberGod?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FCalcutta" alt="prajwalcybergod"/></a></p>
 
-<a href="https://github.com/PrajwalCyberGod/crypto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner&theme=tokyonight" alt="prajwalcybergod"/></a>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight" alt="prajwalcybergod"/></p>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prajwalcybergod"/></a></p>
+<p align="center"><a href="https://github.com/PrajwalCyberGod/crypto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner&theme=tokyonight" alt="prajwalcybergod"/></a></p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalcybergod&column=7&margin-w=15&theme=darkhub" alt="prajwalcybergod" /></a> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prajwalcybergod"/></p>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prajwalcybergod&column=7&margin-w=15&theme=darkhub" alt="prajwalcybergod" /></p>
 
 ---
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/PrajwalCyberGod?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FCalcutta)
+<h1 align="center"> 🔥 Contributions </h1>
+
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=PrajwalCyberGod&theme=react&background=0d1117&border=666">
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=PrajwalCyberGod&theme=react-dark&hide_border=true">
+</p>
 
 ---
 
-<h3>Languages and Tools</h3>
+<h1 align="center"> Languages and Tools </h1>
 
 <p> 
   
@@ -78,7 +81,7 @@
 
 ---
 
-<h3>Contact</h3>
+<h1 align="center"> Contact </h1>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -86,3 +89,8 @@
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=069
 
+[![PayPal][pay-shield]][pay-url]
+  
+[pay-url]: https://www.paypal.me/prajwalmalicybergod
+ 
+[pay-shield]: https://img.shields.io/badge/-PayPal-black.svg?style=for-the-badge&logo=paypal&colorB=037
