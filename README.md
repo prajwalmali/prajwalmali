@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalcybergod&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="prajwalcybergod" /> </p>
+
 <h1 align="center">Hi 👋, I'm Prajwal Vijaykumar Mali</h1>
 <h3 align="center">A passionate cybersecurity learner from India</h3>
 
@@ -37,6 +38,11 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prajwalcybergod"/></a></p>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalcybergod&column=7&margin-w=15&theme=darkhub" alt="prajwalcybergod" /></a> </p>
+
+---
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/PrajwalCyberGod?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FCalcutta)
 
 ---
 
