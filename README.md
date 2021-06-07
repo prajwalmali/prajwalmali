@@ -2,6 +2,8 @@
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=14566528&theme=dark" height="250" width="160">
 
+[![Spotify](https://prajwalcybergod-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/swjsdv0k1809jh3sij8uwfm3u)
+
 <h1 align="center">Hi 👋, I'm Prajwal Vijaykumar Mali</h1>
 <h3 align="center">A passionate cybersecurity learner from India</h3>
 
