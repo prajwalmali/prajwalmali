@@ -31,7 +31,11 @@
 
 <h1 align="center"> 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 </h1>
 
-<p align="center"><a href="https://metrics.lecoq.io/PrajwalCyberGod?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FCalcutta"><img src="https://metrics.lecoq.io/PrajwalCyberGod?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FCalcutta" alt="prajwalcybergod"/></a></p>
+<p align="center">
+  <a href="https://metrics.lecoq.io/PrajwalCyberGod?template=classic&introduction=1&isocalendar=1&languages=1&people=1&stars=1&pagespeed=1&introduction.title=true&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&stars.limit=15&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
+    <img src="https://metrics.lecoq.io/PrajwalCyberGod?template=classic&introduction=1&isocalendar=1&languages=1&people=1&stars=1&pagespeed=1&introduction.title=true&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&stars.limit=15&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta" alt="prajwalcybergod"/>
+  </a>
+</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight" alt="prajwalcybergod"/></p>
 
