@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Automation**
 
-- 🌱 I’m currently learning **Graphic Designing**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [**My Repos**](https://github.com/PrajwalCyberGod?tab=repositories)
 
@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I want to be a Hacker and that's why I am in Cybersecurity**
 
-- 📚 Currently pursuing **Bachelors of Computer Engineering**, Second Year [2020-21] **[9.3 CGPA]**
+- 📚 Currently pursuing **Bachelors of Computer Engineering**, Third Year [2021-22] **[9.3 CGPA]**
 
 ---
 
