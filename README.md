@@ -1,8 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalcybergod&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="prajwalcybergod" /> </p>
 
+<!--
+
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=14566528&theme=dark" height="250" width="160">
 
 [![Spotify](https://prajwalcybergod-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/swjsdv0k1809jh3sij8uwfm3u)
+
+-->
+
+<p align="center"><a href="https://open.spotify.com/user/swjsdv0k1809jh3sij8uwfm3u"><img src="https://prajwalcybergod-spotify.vercel.app/api/spotify"/></a></p>
 
 <h1 align="center">Hi 👋, I'm Prajwal Vijaykumar Mali</h1>
 <h3 align="center">A passionate cybersecurity learner from India</h3>
