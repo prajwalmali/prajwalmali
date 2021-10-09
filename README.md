@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalcybergod&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="prajwalcybergod" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalmali&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="prajwalmali" /> </p>
 
 <!--
 
@@ -21,9 +21,9 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [**My Repos**](https://github.com/PrajwalCyberGod?tab=repositories)
+- 👨‍💻 All of my projects are available at [**My Repos**](https://github.com/prajwalmali?tab=repositories)
 
-- 💻 My current BEST project is [**AutoWhatsApp**](https://github.com/PrajwalCyberGod/AutoWhatsApp)
+- 💻 My current BEST project is [**AutoWhatsApp**](https://github.com/prajwalmali/AutoWhatsApp)
 
 - 💬 Ask me about **Cybersecurity**
 
@@ -38,27 +38,27 @@
 <h1 align="center"> 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 </h1>
 
 <p align="center">
-  <a href="https://metrics.lecoq.io/PrajwalCyberGod?template=classic&introduction=1&isocalendar=1&languages=1&people=1&stars=1&pagespeed=1&introduction.title=true&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&stars.limit=15&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
-    <img src="https://metrics.lecoq.io/PrajwalCyberGod?template=classic&introduction=1&isocalendar=1&languages=1&people=1&stars=1&pagespeed=1&introduction.title=true&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&stars.limit=15&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta" alt="prajwalcybergod"/>
+  <a href="https://metrics.lecoq.io/prajwalmali?template=classic&introduction=1&isocalendar=1&languages=1&people=1&stars=1&pagespeed=1&introduction.title=true&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&stars.limit=15&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
+    <img src="https://metrics.lecoq.io/prajwalmali?template=classic&introduction=1&isocalendar=1&languages=1&people=1&stars=1&pagespeed=1&introduction.title=true&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&stars.limit=15&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta" alt="prajwalmali"/>
   </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prajwalcybergod&show_icons=true&locale=en&theme=tokyonight" alt="prajwalcybergod"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prajwalmali&show_icons=true&locale=en&theme=tokyonight" alt="prajwalmali"/></p>
 
-<p align="center"><a href="https://github.com/PrajwalCyberGod/crypto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalcybergod&repo=crypto&show_owner&theme=tokyonight" alt="prajwalcybergod"/></a></p>
+<p align="center"><a href="https://github.com/prajwalmali/crypto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalmali&repo=crypto&show_owner&theme=tokyonight" alt="prajwalmali"/></a></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalcybergod&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prajwalcybergod"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalmali&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prajwalmali"/></p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prajwalcybergod&column=7&margin-w=15&theme=darkhub" alt="prajwalcybergod" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prajwalmali&column=7&margin-w=15&theme=darkhub" alt="prajwalmali" /></p>
 
 ---
 
 <h1 align="center"> 🔥 Contributions </h1>
 
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=PrajwalCyberGod&theme=react&background=0d1117&border=666">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=prajwalmali&theme=react&background=0d1117&border=666">
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=PrajwalCyberGod&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=prajwalmali&theme=react-dark&hide_border=true">
 </p>
 
 ---
