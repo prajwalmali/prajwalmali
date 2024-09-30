@@ -11,7 +11,7 @@
 <p align="center"><a href="https://open.spotify.com/user/swjsdv0k1809jh3sij8uwfm3u"><img src="https://prajwalcybergod-spotify.vercel.app/api/spotify"/></a></p>
 
 <h1 align="center">Hi 👋, I'm Prajwal Mali</h1>
-<h3 align="center">A passionate cybersecurity learner from India</h3>
+<h3 align="center">A passionate learner from India</h3>
 
 <h1 align="center"> About Me </h1>
 
@@ -19,19 +19,19 @@
 
 - 🔭 I’m currently working on **Automation**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [**My Repos**](https://github.com/prajwalmali?tab=repositories)
 
 - 💻 My current BEST project is [**AutoWhatsApp**](https://github.com/prajwalmali/AutoWhatsApp)
 
-- 💬 Ask me about **Cybersecurity**
+- 💬 Ask me about **Tech**
 
-- 📫 How to reach me **prajwalgithubpro@hotmail.com**
+- 📫 How to reach me **iamprajwalmali@gmail.com**
 
 - ⚡ Fun fact **I want to be a Hacker and that's why I am in Cybersecurity**
 
-- 📚 Currently pursuing **Bachelors of Computer Engineering**, Third Year [2021-22] **[9.3 CGPA]**
+- 📚 Education - **Bachelors of Computer Engineering**, [2022-23] **[9.3 CGPA]**
 
 ---
 
