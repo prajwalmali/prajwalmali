@@ -10,7 +10,7 @@
 
 <p align="center"><a href="https://open.spotify.com/user/swjsdv0k1809jh3sij8uwfm3u"><img src="https://prajwalcybergod-spotify.vercel.app/api/spotify"/></a></p>
 
-<h1 align="center">Hi 👋, I'm Prajwal Vijaykumar Mali</h1>
+<h1 align="center">Hi 👋, I'm Prajwal Mali</h1>
 <h3 align="center">A passionate cybersecurity learner from India</h3>
 
 <h1 align="center"> About Me </h1>
